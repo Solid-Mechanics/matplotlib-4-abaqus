@@ -11,10 +11,10 @@ This project include the following python modules. Notice that this project only
 * pyparsing (2.0.3)
 
 ## how it works
-copy the python module to the abaqus python package folder:
+Copy the python module to the abaqus python package folder:
 ```
 ...\SIMULIA\Abaqus\6.14-1\tools\SMApy\python2.7\Lib\site-packages
 ```
 
 ## test
-run the python scripts `matplotlib_test.py` in abaqus CAE. if abaqus build-in python can include the matplotlib module successfully, there will be a plot window pop out.
+Run the python scripts `matplotlib_test.py` in abaqus CAE. if abaqus build-in python can include the matplotlib module successfully, there will be a plot window pop out.
