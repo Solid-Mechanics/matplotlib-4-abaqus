@@ -11,7 +11,7 @@ This project include the following python modules. Notice that this project only
 * pyparsing (2.0.3)
 
 ## how it works
-Copy the python module to the abaqus python package folder:
+Copy the python modules to the abaqus python package folder:
 ```
 ...\SIMULIA\Abaqus\6.14-1\tools\SMApy\python2.7\Lib\site-packages
 ```
