@@ -17,4 +17,6 @@ Copy the python module to the abaqus python package folder:
 ```
 
 ## test
-Run the python scripts `matplotlib_test.py` in abaqus CAE. if abaqus build-in python can include the matplotlib module successfully, there will be a plot window pop out.
+* Run the python script `matplotlib_test.py` in abaqus CAE. if abaqus build-in python can include the matplotlib module successfully, there will be a plot window pop out.
+
+* run the python script`test_link_mpl_toolkits.py` in abaqus CAE, to test if the abaqus python can import `mpl_toolkits` module.
