@@ -4,7 +4,7 @@ Allow abaqus(v6.14-1) to use matplotlib in its build-in python scripts environme
 The advantage to let abaqus python use matplotlib module is you can use python to read your abaqus odb file and operate the result data like stress and strain, and the plot it out and save as pdf or eps file that can used in latex.
 
 ## python modules
-This project include the following python modules. Notice that this project only works on `abaqus 6.14-1`.
+This project include the following python modules. ONLY tested on `abaqus 6.14-1`.
 * matplotlib (1.3.1)
 * dateutil (2.4.1)
 * six (1.9.0)
