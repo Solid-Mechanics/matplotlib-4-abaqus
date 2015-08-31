@@ -22,6 +22,7 @@ Copy the python modules to the abaqus python package folder:
 * Run the python script`test_link_mpl_toolkits.py` in abaqus CAE, to test if the abaqus python can import `mpl_toolkits` module.
 
 ## known bugs:
+* only works on windows platform;
 * On windows 10, it seems that you cannot run the `.py` in CAE(CAE will dead). You should use matplotlib under Abaqus command line:
 ```
 abaqus cae -noGUI xxx.py
